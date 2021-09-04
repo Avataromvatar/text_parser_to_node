@@ -1,0 +1,15 @@
+[#fragment:test_fragment1#]
+Bla Bla
+Bla Bla
+[#link:test_fragment2#]
+[#link:test_fragment3#]
+[#fragment:test_fragment2#]
+Bla2 Bla2
+Bla2 Bla2
+[#link:test_fragment1#]
+[#link:test_fragment3#]
+[#fragment:test_fragment3#]
+Bla3 Bla3
+Bla3 Bla3
+[#link:test_fragment1#]
+[#link:test_fragment2#]
